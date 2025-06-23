@@ -1,6 +1,6 @@
-- 👋 Semaje, 
-- 👀 Naskia Poa
-- 🌱 Sijui Ni Nini
+- 👋 Semaje; 
+- 👀 Naskia Poa;
+- 🌱 Sijui Ni Nini;
 - 
 - 📫 +254758922923
 
