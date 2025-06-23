@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @swazzDave
-- 👀 I’m interesting
-- 🌱 I’m currently inviolable 
-- 💞️ I’m looking to collaborate on whichever career progress
-- 📫 How to reach me 
-- 😄 
-- ⚡ Fun fact: ...
+- 👋 Semaje, 
+- 👀 Naskia Poa
+- 🌱 Sijui Ni Nini
+- 
+- 📫 +254758922923
+
 
 <!---
 donwuzu/donwuzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
